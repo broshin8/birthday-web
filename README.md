@@ -26,6 +26,10 @@ birthday-website/
 │
 ├── index.html
 ├── style.css
+
+https://github.com/user-attachments/assets/a2ef6bca-5e59-4175-bbb4-ffbaf1724cc8
+
+
 ├── script.js
 │
 └── videos/
@@ -43,6 +47,8 @@ This project was created as a personal birthday gift to express love and appreci
 - Timeline of memories
 - Interactive love notes
 - More animations and effects
+
+
 
 ---
 
