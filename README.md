@@ -8,15 +8,10 @@ A simple yet heartfelt birthday website created for my girlfriend using **HTML**
 ## ✨ Features
 
 - 🎁 Welcome birthday greeting
-- 📹 Birthday video
-- 🎵 Background music
-- 📸 "Our Memories" photo gallery
+- 📹 Birthday video (her self)
 - 💌 Personalized love letter
-- ❤️ Reasons why I love you section
 - ⏳ Relationship day counter
 - 🎉 Surprise message
-- ✨ Smooth animations and transitions
-- 📱 Fully responsive design
 
 ## 🛠️ Built With
 
@@ -33,8 +28,7 @@ birthday-website/
 ├── style.css
 ├── script.js
 │
-├── images/
-├── videos/
+└── videos/
 ```
 
 ## 🎯 Purpose
