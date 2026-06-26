@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/f2072435-12ed-4c31-b61c-d673a0b7f7bb
+
 # birthday-web
 A romantic birthday website built with HTML, CSS, and JavaScript, featuring a heartfelt message, birthday video, photo gallery, love letter, and interactive surprises to celebrate someone special.
 
